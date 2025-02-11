@@ -55,6 +55,7 @@ const Socials = () => {
                     </a>
                 </li>
             </ul>
+
         </div>
     </footer>
   )
